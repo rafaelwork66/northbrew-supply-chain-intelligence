@@ -1,0 +1,5 @@
+warehouse_id,warehouse_name,state
+W01,Sydney DC,NSW
+W02,Melbourne DC,VIC
+W03,Brisbane DC,QLD
+W04,Perth DC,WA
