@@ -1,0 +1,26 @@
+supplier_id,supplier_name,country,contract_lead_days,payment_terms_days
+S001,Supplier A,Malaysia,28,30
+S002,Supplier B,China,11,30
+S003,Supplier C,Malaysia,16,14
+S004,Supplier D,Vietnam,19,45
+S005,Supplier E,Australia,20,45
+S006,Supplier F,Japan,6,60
+S007,Supplier G,Malaysia,21,30
+S008,Supplier H,Malaysia,9,14
+S009,Supplier I,Australia,28,60
+S010,Supplier J,China,26,45
+S011,Supplier K,China,33,45
+S012,Supplier L,Japan,28,14
+S013,Supplier M,Vietnam,16,30
+S014,Supplier N,Malaysia,34,60
+S015,Supplier O,China,17,60
+S016,Supplier P,Australia,15,30
+S017,Supplier Q,China,33,60
+S018,Supplier R,Australia,16,60
+S019,Supplier S,Malaysia,7,30
+S020,Supplier T,Vietnam,19,60
+S021,Supplier U,Vietnam,29,30
+S022,Supplier V,China,10,14
+S023,Supplier W,Japan,19,45
+S024,Supplier X,Japan,9,45
+S025,Supplier Y,Malaysia,26,14
