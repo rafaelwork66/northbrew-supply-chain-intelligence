@@ -1,0 +1,6 @@
+test_id,test,expected_result,status
+UAT-01,Select Supplier D,All visuals filter to Supplier D,Not run
+UAT-02,Reconcile landed cost,Dashboard equals clean source total,Not run
+UAT-03,Check invalid quantities,No ordered quantity <= 0,Pass
+UAT-04,Check PO uniqueness,No duplicate PO IDs,Pass
+UAT-05,Reset filters,All slicers return to default,Not run

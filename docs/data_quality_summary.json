@@ -1,0 +1,8 @@
+{
+  "raw_rows": 24055,
+  "clean_rows": 23876,
+  "duplicates_removed": 55,
+  "invalid_quantities_removed": 35,
+  "missing_supplier_rows_removed": 91,
+  "missing_delivery_dates_retained_and_flagged": 70
+}
